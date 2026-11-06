@@ -31,3 +31,9 @@ This lab focused on investigating network traffic using Wireshark to identify th
 ## Learning Outcome
 Developed practical understanding of how to investigate captured network traffic and identify a potential attacker through IP address analysis.
 
+## Lab Results
+
+The following screenshot shows the final
+results obtained after completing the lab.
+
+![Lab 03 Results](Screenshots/lab3-results.png)
