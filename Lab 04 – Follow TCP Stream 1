@@ -1,0 +1,33 @@
+
+# Lab 04: Follow TCP Stream 1
+
+## Overview
+This lab introduced Wireshark's Follow TCP Stream feature, which helps reconstruct network conversations by combining related TCP packets. It focused on understanding how data is exchanged between communicating systems.
+
+## Objectives
+- Understand TCP communication between network devices.
+- Learn how to reconstruct conversations from captured packets.
+- Explore the Follow TCP Stream feature in Wireshark.
+- Examine the information exchanged during network communication.
+
+## Activities Performed
+- Loaded the provided network capture into Wireshark.
+- Identified TCP packets within the capture.
+- Used the Follow TCP Stream feature to rebuild a conversation.
+- Examined the reconstructed communication.
+- Read and investigated the data exchanged between systems.
+
+## Tools Used
+- Wireshark
+- TCP Stream Analysis
+- Network Packet Capture (PCAP)
+
+## Skills Gained
+- TCP Protocol Analysis
+- Follow TCP Stream
+- Network Conversation Reconstruction
+- Packet Inspection
+- Communication Analysis
+
+## Learning Outcome
+Learned how to reconstruct TCP conversations and examine transmitted information using Wireshark's stream-following functionality.
