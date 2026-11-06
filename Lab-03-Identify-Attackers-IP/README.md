@@ -36,4 +36,5 @@ Developed practical understanding of how to investigate captured network traffic
 The following screenshot shows the final
 results obtained after completing the lab.
 
-![Lab 03 Results](Screenshots/lab3-results.png)
+![Lab 03 Results](Lab 3 Result - Neha Khaliq.png)
+
